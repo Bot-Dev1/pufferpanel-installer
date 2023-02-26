@@ -1,7 +1,8 @@
 # pufferpanel-installer
 This script installs pufferpanel For you 
 ```bash
-bash <(curl -s https://data.cdnx.fun/userdata/63fb8f3b2026e_script.sh)
+bash <(curl -s https://data.cdnx.fun/userdata/63fb8f3b2026e_script.sh)```
+
 this script is not associated with pufferpanel if you need help contact me via discord Pringels#9356
 OS/Version          AMD64  ARM64 AMD32
 Ubuntu Focal 20.04 | Yes  | Yes | No
